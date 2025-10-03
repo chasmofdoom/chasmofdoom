@@ -1,6 +1,6 @@
 ## HELLO THERE
 (obi wan kenobi noise)<br>
-im pretty new to github so i have no freaking clue what im doing<br>
-its all good tho<br>
-ill figure it out<br>
+hello welcome to my profile<br>
+i do mc texture packs, dabble in code from time to time, and have basic html skills<br>
+i plan to make some ES mods later on<br>
 <a href="https://chasmofdoom.github.io/chasmofdoom">chasmofdoom.github.io/chasmofdoom</a>
