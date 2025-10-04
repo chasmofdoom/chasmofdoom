@@ -5,5 +5,5 @@ i do mc texture packs, dabble in code from time to time, and have basic html ski
 i plan to make some ES mods later on<br>
 <a href="https://chasmofdoom.github.io/chasmofdoom">chasmofdoom.github.io/chasmofdoom</a>
 
-relearning python
+relearning python<br>
 were so back
